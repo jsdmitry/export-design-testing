@@ -1,0 +1,8 @@
+[title='Export all data to PDF'] .dx-item-content {
+    padding-top: 10px!important;
+}
+
+[title='Export selected row to Excel'] .dx-item-content {
+    padding-bottom: 10px!important;
+    border-bottom: 1px solid #ddd;
+}
